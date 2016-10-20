@@ -17,5 +17,6 @@ public class ProjektJava {
         System.out.println("nowa wiadomosc");
         System.out.println("co tam slychac");
         System.out.println("leci!!!!!!!!");
+        System.out.println("jest 20 spadamy!!!!!");
     }
 }
