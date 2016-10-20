@@ -15,5 +15,6 @@ public class ProjektJava {
      */
     public static void main(String[] args) {
         System.out.println("nowa wiadomosc");
+        System.out.println("co tam slychac");
     }
 }
